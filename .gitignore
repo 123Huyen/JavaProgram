@@ -1,6 +1,18 @@
 # Personal learning guides - not for version control
 CreditCardValidator_Guide.md
 
+# Other Java exercises (kept locally, not tracked in git)
+AddNumber/
+StudentGradeManager/
+BubbleSort.java
+BubbleSortImproved.java
+MultiDimensionArrayExample.java
+SelectionSort.java
+SingleDimensionArrayExample.java
+convertToDecimal.java
+octalToDecimal.java
+github_java_template.md
+
 # Personal documents and references
 *.pdf
 *.docx
