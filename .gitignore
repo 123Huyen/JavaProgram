@@ -1,0 +1,13 @@
+# Personal learning guides - not for version control
+CreditCardValidator_Guide.md
+
+# Personal documents and references
+*.pdf
+*.docx
+*.doc
+
+# VS Code editor settings
+.vscode/
+
+# Personal skill files
+*.skill
